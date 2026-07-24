@@ -14,5 +14,7 @@ public class ReverseString{
         }
 
         System.out.println("Reversed String: " + reversed);
+
+        input.close();
     }
 }
